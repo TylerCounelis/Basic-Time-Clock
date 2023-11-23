@@ -11,7 +11,7 @@
 
 
 <br />
-<div align="center>
+<div align="center">
     <h2 align="center">Simple Remote Time Clock</h2>
     <p align="center">
     A basic, web-based time clock for tracking working hours
@@ -22,11 +22,7 @@
 
 ## About the Project
 
-This has been an idea in the back of my mind since mid-August 2023. I started a job being a  
-teaching assistant for one of my old classes, and I was responsible for logging my own hours.  
-Rather than diligently write down every start-end time, I wanted a simple button press that  
-would do the job for me and save the data. This gives me the opportunity to work in a couple  
-different languages and dive into some full-stack development for the first time.  
+This has been an idea in the back of my mind since mid-August 2023. I started a job being a teaching assistant for one of my old classes, and I was responsible for logging my own hours. Rather than diligently write down every start-end time, I wanted a simple button press that would do the job for me and save the data. This gives me the opportunity to work in a couple different languages and dive into some full-stack development for the first time.  
 
 This is also the first time I've interacted with git in any capacity, so I'll be learning  
 how to use that in tandem with the above.
